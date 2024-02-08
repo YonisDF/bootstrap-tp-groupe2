@@ -1,0 +1,19 @@
+.blue {
+  background-color: cornflowerblue;
+}
+
+.red {
+  background-color: crimson;
+}
+
+.green {
+  background-color: darkcyan;
+}
+
+ul {
+  list-style: none;
+}
+
+form {
+  width: 500px;
+}

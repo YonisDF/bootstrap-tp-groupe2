@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.container {
+  border-radius: 60px;
+}
+
+.voir {
+  margin-right: 5px;
+  width: 60px;
+}
+
+.modifier {
+  width: 100px;
+}
+
+.length {
+  text-align: right;
+}
+
+body {
+  background: rgb(63, 94, 251);
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+}
